@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RoboBlue</string>
+    <string name="title_devices">Devices</string>
+    <string name="title_terminal">Terminal</string>
+    <string name="title_controller">Controller</string>
+    <string name="no_bt_module">No bluetooth module found!</string>
+    <string name="bt_module_found">Bluetooth module found!</string>
+    <string name="bt_turned_on">Bluetooth module turned on!</string>
+    <string name="terminal_hint">Write Message</string>
+    <string name="Start_button">Start</string>
+    <string name="Stop_button">Stop</string>
+    <string name="Function_button1">Functon 1</string>
+    <string name="Function_button2">Functon 2</string>
+    <string name="Function_button3">Functon 3</string>
+    <string name="Function_button4">Functon 4</string>
+    <string name="Send_button">Send</string>
+    <string name="Forward_button">Forward</string>
+    <string name="Brake_button">Brake</string>
+    <string name="Right_button">Right</string>
+    <string name="Left_button">Left</string>
+    <string name="Function_name_hint">Function Name</string>
+    <string name="Function_value_hint">Function Value</string>
+    <string name="Function_popup_name">Set Function</string>
+    <string name="Function_popup_send">Set Function</string>
+
+</resources>
